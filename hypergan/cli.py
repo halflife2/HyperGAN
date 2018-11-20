@@ -10,7 +10,6 @@ import hypergan as hg
 import time
 
 import fcntl
-import os
 import shutil
 import sys
 
